@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Icon: exclude-square-duotone
+  Set: Phosphor
+  Author: Phosphor Icons (https://github.com/phosphor-icons/core)
+  License: MIT (https://github.com/phosphor-icons/core/blob/main/LICENSE)
+  Source: https://iconify.design
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 256 256"
+     width="256"
+     height="256">
+  <title>Overlapping Squares Icon</title>
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/"
+             xmlns:cc="http://creativecommons.org/ns#">
+      <cc:Work rdf:about="">
+        <dc:title>Overlapping Squares Icon</dc:title>
+        <dc:description>Minimalistic icon of two overlapping squares, representing layers, transparency, or interaction. Ideal for use in design tools, interface elements, or conceptual graphics.</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Phosphor Icons</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://github.com/phosphor-icons/core</dc:source>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Phosphor Icons</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license rdf:resource="https://github.com/phosphor-icons/core/blob/main/LICENSE"/>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>overlapping-squares</rdf:li>
+            <rdf:li>layers-icon</rdf:li>
+            <rdf:li>transparency-icon</rdf:li>
+            <rdf:li>geometric-shapes</rdf:li>
+            <rdf:li>minimalistic-design</rdf:li>
+            <rdf:li>user-interface-icon</rdf:li>
+            <rdf:li>UI-elements</rdf:li>
+            <rdf:li>UX-design</rdf:li>
+            <rdf:li>abstract-shapes</rdf:li>
+            <rdf:li>modern-icon</rdf:li>
+            <rdf:li>square-shapes</rdf:li>
+            <rdf:li>graphic-design-tools</rdf:li>
+            <rdf:li>interaction-icon</rdf:li>
+            <rdf:li>layering-concept</rdf:li>
+            <rdf:li>transparency-effect</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="https://github.com/phosphor-icons/core/blob/main/LICENSE">
+        <dc:title>MIT (MIT)</dc:title>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g fill="currentColor"><path d="M96 96v64H40V40h120v56Zm64 0v64H96v56h120V96Z" opacity=".2"/><path d="M216 88h-48V40a8 8 0 0 0-8-8H40a8 8 0 0 0-8 8v120a8 8 0 0 0 8 8h48v48a8 8 0 0 0 8 8h120a8 8 0 0 0 8-8V96a8 8 0 0 0-8-8M48 152V48h104v40H96a8 8 0 0 0-8 8v56Zm104-48v48h-48v-48Zm56 104H104v-40h56a8 8 0 0 0 8-8v-56h40Z"/></g>
+</svg>
